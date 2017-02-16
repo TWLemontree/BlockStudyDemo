@@ -16,9 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-
-    [self baseBlockUse];
-
+    
+    // Block的基础使用方式
+     [self baseBlockUse];
 }
 
 #pragma mark - block的基本使用方式
